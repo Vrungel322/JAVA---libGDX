@@ -1,0 +1,139 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bacground1
+  rotate: false
+  xy: 2, 541
+  size: 513, 480
+  orig: 513, 480
+  offset: 0, 0
+  index: -1
+background-300x480
+  rotate: false
+  xy: 2, 59
+  size: 300, 480
+  orig: 300, 480
+  offset: 0, 0
+  index: -1
+bird-16x16
+  rotate: false
+  xy: 906, 1005
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bird1
+  rotate: false
+  xy: 583, 895
+  size: 118, 75
+  orig: 118, 75
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 304, 181
+  size: 118, 75
+  orig: 118, 75
+  offset: 0, 0
+  index: -1
+bird2-16x16
+  rotate: false
+  xy: 441, 321
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bird3-16x16
+  rotate: false
+  xy: 304, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bird4
+  rotate: false
+  xy: 128, 10
+  size: 125, 47
+  orig: 125, 47
+  offset: 0, 0
+  index: -1
+bird5
+  rotate: false
+  xy: 703, 921
+  size: 127, 49
+  orig: 127, 49
+  offset: 0, 0
+  index: -1
+bird6
+  rotate: false
+  xy: 583, 847
+  size: 121, 46
+  orig: 121, 46
+  offset: 0, 0
+  index: -1
+bird7
+  rotate: false
+  xy: 583, 799
+  size: 124, 46
+  orig: 124, 46
+  offset: 0, 0
+  index: -1
+bird8
+  rotate: false
+  xy: 2, 2
+  size: 124, 55
+  orig: 124, 55
+  offset: 0, 0
+  index: -1
+bird9
+  rotate: false
+  xy: 304, 258
+  size: 135, 79
+  orig: 135, 79
+  offset: 0, 0
+  index: -1
+ground-321x24
+  rotate: false
+  xy: 583, 997
+  size: 321, 24
+  orig: 321, 24
+  offset: 0, 0
+  index: -1
+ground1
+  rotate: false
+  xy: 583, 972
+  size: 321, 23
+  orig: 321, 23
+  offset: 0, 0
+  index: -1
+pipe-64x400
+  rotate: false
+  xy: 517, 621
+  size: 64, 400
+  orig: 64, 400
+  offset: 0, 0
+  index: -1
+play_down
+  rotate: false
+  xy: 703, 895
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+play_up
+  rotate: false
+  xy: 517, 595
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 304, 339
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
